@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    int a,b;
+    int a;
     cout<<"enter value of a:";
     cin>>a;
-    if(a>0){
+    if(a>=0){
         cout<<"positive number is:"<<a;
     }
     else{
